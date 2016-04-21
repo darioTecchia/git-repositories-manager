@@ -27,4 +27,4 @@ in this case **python-gtav-md5-checker**.
 
 ## Screenshot
 
-![screen](screen.png)
+![screen](https://github.com/darioTecchia/git-repositories-manager/blob/master/screen.PNG)
