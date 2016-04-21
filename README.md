@@ -8,10 +8,10 @@ pieno stile Yaourt.
 
 Usando, per esempio:
 ```
-grm angularjs
+grm python-gtav-md5-checker
 ```
 Verranno visualizzati tutti i repository che soddisfano la 
-query di ricerca, in questo caso **angularjs**.
+query di ricerca, in questo caso **python-gtav-md5-checker**.
 
 ## ENG
 This script is a sketch of a project that I'm going to 
@@ -20,10 +20,11 @@ find and clone the GitHub repository full Yaourt style.
 
 Using, i.e.:
 ```
-grm angularjs
+grm python-gtav-md5-checker
 ```
 You will see all the repositories that meet the search query, 
-in this case **angularjs**.
+in this case **python-gtav-md5-checker**.
 
 ## Screenshot
 
+![screen](screen.png)
