@@ -1,29 +1,18 @@
-# GitHub Repositories Manager
+# PowerGit
 
-## ITA
-Questo script è un abbozzo di un progetto che ho intenzione 
-di completare definendo un comando bash che permette 
-all'utente di cercare e clonare repository di GitHub in 
-pieno stile Yaourt.
+## About
+PowerGit is a command line interface program yaourt-like wich allow to find and clone public repositories from GitHub.
 
-Usando, per esempio:
-```
-grm python-gtav-md5-checker
-```
-Verranno visualizzati tutti i repository che soddisfano la 
-query di ricerca, in questo caso **python-gtav-md5-checker**.
+## Usage
+The usage is really simple, just use the command **pwg** followed by the search keywords, then choose and input the number of the repo
+to clone.
 
-## ENG
-This script is a sketch of a project that I'm going to 
-finish defining a bash command that allows the user to 
-find and clone the GitHub repository full Yaourt style.
+Examples
 
-Using, i.e.:
-```
-grm python-gtav-md5-checker
-```
-You will see all the repositories that meet the search query, 
-in this case **python-gtav-md5-checker**.
+Search repositories with the keyword *angularjs*
+
+```pwg angularjs```
+
 
 ## Screenshot
 
